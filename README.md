@@ -6,3 +6,4 @@ Max Havey
 Susu Yan
 Ben Kothe
 Sara Higginbotham
+Marie Bowman

@@ -19,3 +19,15 @@ p {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 1.6em;
 }
+
+
+#mainsection{
+margin-left: 20px;
+margin-top:15px;
+width:650px;
+float:left;
+padding:10px 5px 15px 20px;
+color: #034575;
+text-align:justify;
+font-family: Georgia
+}

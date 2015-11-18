@@ -2,6 +2,7 @@
 
 body {
   font-size: 62.5%;
+background: hotpink;
 }
 
 ul {
@@ -25,6 +26,19 @@ p {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 1.75em;
 }
+
+/*
+----------------------------------------------------------------
+	Media
+---------------------------------------------------------------- */
+img,
+iframe,
+video,
+svg {
+    display: block;
+    max-width: 100%;
+}
+
 
 
 #mainsection{

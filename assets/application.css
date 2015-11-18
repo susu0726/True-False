@@ -4,6 +4,10 @@ body {
   font-size: 62.5%;
 }
 
+ul {
+  list-style: none;
+}
+
 h1 {color: Black;
   font-family: 'Futura', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;

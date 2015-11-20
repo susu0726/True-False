@@ -2,6 +2,11 @@
 
 body {
   font-size: 62.5%;
+background: hotpink;
+}
+
+ul {
+  list-style:none;
 }
 
 h1 {color: Black;
@@ -22,6 +27,19 @@ p {
   font-size: 1.75em;
 }
 
+/*
+----------------------------------------------------------------
+	Media
+---------------------------------------------------------------- */
+img,
+iframe,
+video,
+svg {
+    display: block;
+    max-width: 100%;
+}
+
+
 
 #mainsection{
 margin-left: 20px;
@@ -33,3 +51,13 @@ color: #034575;
 text-align:justify;
 font-family: Georgia
 }
+
+.primary-nav ul {
+  margin:0;
+  padding:0;
+  }
+.primary-nav li {
+  float:left;
+  list-style: none;
+  text-align:center;
+  }

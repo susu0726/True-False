@@ -7,3 +7,4 @@ Susu Yan
 Ben Kothe
 Sara Higginbotham
 Marie Bowman
+Maria Di Bianca

@@ -10,13 +10,13 @@ ul {
 }
 
 h1 {color: Black;
-  font-family: 'Futura', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Futura PT Condensed', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
-  font-size: 2.4em;
+  font-size: 16px;
 }
 
 h2, h3 {
-  font-family: 'Futura', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Futura PT Condensed', 'Helvetica Neue', Arial, sans-serif;
   font-size: 1.7em;
   font-weight: 400;
 }
@@ -24,7 +24,7 @@ h2, h3 {
 
 p {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: 1.75em;
+  font-size: 16px;
 }
 
 /*

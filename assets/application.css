@@ -12,7 +12,7 @@ ul {
 h1 {color: Black;
   font-family: 'Futura PT Condensed', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 2em;
 }
 
 h2, h3 {
@@ -24,7 +24,7 @@ h2, h3 {
 
 p {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: 16px;
+  font-size: 1.25em;
 }
 
 /*

@@ -33,13 +33,13 @@ li a:hover {
 }
 
 h1 {color: Black;
-  font-family: 'Futura PT Condensed', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'futura-pt-condensed', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
   font-size: 2em;
 }
 
 h2, h3 {
-  font-family: 'Futura PT Condensed', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'futura-pt-condensed', 'Helvetica Neue', Arial, sans-serif;
   font-size: 1.7em;
   font-weight: 400;
 }
@@ -47,7 +47,8 @@ h2, h3 {
 
 p {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: 1.25em;
+  font-size: 16px;
+  line-height: 22px;
 }
 
 /*
